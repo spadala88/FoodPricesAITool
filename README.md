@@ -51,7 +51,7 @@ This project provides an intelligent assistant that can answer questions about f
 
 3. Run the MCP server:
    ```bash
-   python LocalMcpServer.py
+   python uv run LocalMcpServer.py
    ```
 
 4. Start the FastAPI backend:
