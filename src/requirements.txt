@@ -1,1 +1,11 @@
 tk
+mcp
+requests
+pypdf
+sentence-transformers
+fastapi
+uvicorn
+langchain-core
+langchain-ollama
+mcp
+ 

@@ -41,7 +41,7 @@ class SimpleUI:
             response = requests.post(
                 "http://127.0.0.1:9001/chat",
                 data={"query": query},
-                timeout=300
+                timeout=3000
             )
             
             if response.status_code == 200:
