@@ -1,2 +1,2 @@
 [tool.fastapi]
-entrypoint = "FoodPricesAITool:app"
+entrypoint = "FoodPricesAITool.app:app"
