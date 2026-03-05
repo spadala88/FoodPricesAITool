@@ -3,8 +3,8 @@ mcp
 requests
 pypdf
 sentence-transformers
-fastapi
-uvicorn
+fastapi==0.104.1
+uvicorn==0.24.0
 langchain-core
 langchain-ollama
 mcp
