@@ -1,7 +1,7 @@
 from typing import List, Dict, Any, Optional
 from langchain_ollama import ChatOllama
 
-MODEL_NAME = "qwen2.5:7b-instruct"
+MODEL_NAME = "gpt-oss:120b-cloud"
 
 llm = ChatOllama(
     model=MODEL_NAME,
