@@ -3,7 +3,7 @@ from googleapiclient.discovery import build
 
 mcp = FastMCP()
 # Your API Key (Remember to rotate this key later!)
-YOUTUBE_API_KEY = "AIzaSyABFhDmNkm7Ds_ZoOn9Y1pXKi0Xl05ugjQ"
+YOUTUBE_API_KEY = "API_KEY_HERE"  # Replace with your actual API key
 
 @mcp.tool(
     name="fetch_video_comments",
